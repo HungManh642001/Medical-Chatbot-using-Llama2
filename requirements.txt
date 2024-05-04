@@ -1,5 +1,5 @@
 ctransformers
-sentence-transformer
+sentence-transformers
 pinecone-client
 langchain
 flask
