@@ -1,0 +1,8 @@
+ctransformers
+sentence-transformer
+pinecone-client
+langchain
+flask
+pypdf
+python-dotenv
+-e .
