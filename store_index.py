@@ -3,9 +3,9 @@ import pinecone
 
 from dotenv import load_dotenv
 import os
-
 from src.helper import load_pdf, text_split, download_hugging_face_embeddings
 
+load_dotenv()
 
 PINECONE_API_KEY = os.environ.get('PINECONE_API_KEY')
 PINECONE_API_ENV = os.environ.get('PINECONE_API_ENV')
